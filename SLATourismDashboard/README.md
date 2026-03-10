@@ -69,11 +69,10 @@ TourismDashboard
 
 ## ⚙️ Installation Guide
 
-### 1️⃣ Clone the repository
+### 1️⃣ Download the project or clone the repository.
 
 ```
-git clone https://github.com/mathumathusan/TourismDashboard.git
-```
+
 
 ---
 
