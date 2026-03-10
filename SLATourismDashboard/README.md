@@ -130,13 +130,10 @@ https://localhost:5001
 
 ## 👨‍💻 Author
 
-**Mathusan**
+**Srikanthan kandeban**
 
 GitHub:
-https://github.com/mathumathusan
+https://github.com/kandeban99
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
